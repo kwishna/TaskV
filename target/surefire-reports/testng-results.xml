@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium Take Home Test" duration-ms="24625" started-at="2019-12-17T20:17:25Z" finished-at="2019-12-17T20:17:50Z">
+    <groups>
+    </groups>
+    <test name="Selenium Take Home Test" duration-ms="24625" started-at="2019-12-17T20:17:25Z" finished-at="2019-12-17T20:17:50Z">
+      <class name="com.vlocity.qe.WikipediaTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="setup" is-config="true" duration-ms="12994" started-at="2019-12-17T20:17:25Z" finished-at="2019-12-17T20:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sloganPresent()[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="sloganPresent" duration-ms="82" started-at="2019-12-17T20:17:38Z" finished-at="2019-12-17T20:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sloganPresent -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="715" started-at="2019-12-17T20:17:38Z" data-provider="dpApi" finished-at="2019-12-17T20:17:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="703" started-at="2019-12-17T20:17:39Z" data-provider="dpApi" finished-at="2019-12-17T20:17:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="936" started-at="2019-12-17T20:17:39Z" data-provider="dpApi" finished-at="2019-12-17T20:17:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="718" started-at="2019-12-17T20:17:40Z" data-provider="dpApi" finished-at="2019-12-17T20:17:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="1266" started-at="2019-12-17T20:17:41Z" data-provider="dpApi" finished-at="2019-12-17T20:17:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="1016" started-at="2019-12-17T20:17:42Z" data-provider="dpApi" finished-at="2019-12-17T20:17:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="1001" started-at="2019-12-17T20:17:43Z" data-provider="dpApi" finished-at="2019-12-17T20:17:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="1275" started-at="2019-12-17T20:17:44Z" data-provider="dpApi" finished-at="2019-12-17T20:17:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="801" started-at="2019-12-17T20:17:46Z" data-provider="dpApi" finished-at="2019-12-17T20:17:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="testHyperLinksStatus(int)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="testHyperLinksStatus" duration-ms="931" started-at="2019-12-17T20:17:46Z" data-provider="dpApi" finished-at="2019-12-17T20:17:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHyperLinksStatus -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="420" started-at="2019-12-17T20:17:47Z" data-provider="languages" finished-at="2019-12-17T20:17:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="168" started-at="2019-12-17T20:17:48Z" data-provider="languages" finished-at="2019-12-17T20:17:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Polski]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="182" started-at="2019-12-17T20:17:48Z" data-provider="languages" finished-at="2019-12-17T20:17:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Español]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="287" started-at="2019-12-17T20:17:48Z" data-provider="languages" finished-at="2019-12-17T20:17:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Русский]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="160" started-at="2019-12-17T20:17:48Z" data-provider="languages" finished-at="2019-12-17T20:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Italiano]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="178" started-at="2019-12-17T20:17:49Z" data-provider="languages" finished-at="2019-12-17T20:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Português]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="167" started-at="2019-12-17T20:17:49Z" data-provider="languages" finished-at="2019-12-17T20:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[中文]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="164" started-at="2019-12-17T20:17:49Z" data-provider="languages" finished-at="2019-12-17T20:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Français]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="173" started-at="2019-12-17T20:17:49Z" data-provider="languages" finished-at="2019-12-17T20:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deutsch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="verifyLanguagePresent(java.lang.String)[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="verifyLanguagePresent" duration-ms="168" started-at="2019-12-17T20:17:49Z" data-provider="languages" finished-at="2019-12-17T20:17:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[日本語]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguagePresent -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.vlocity.qe.WikipediaTest@2c9f9fb0]" name="closeBrowser" is-config="true" duration-ms="70" started-at="2019-12-17T20:17:49Z" finished-at="2019-12-17T20:17:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.vlocity.qe.WikipediaTest -->
+    </test> <!-- Selenium Take Home Test -->
+  </suite> <!-- Selenium Take Home Test -->
+</testng-results>
